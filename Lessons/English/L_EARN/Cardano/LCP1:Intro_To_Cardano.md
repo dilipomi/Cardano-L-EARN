@@ -55,7 +55,7 @@ There are many wallets available, included Atomic Wallet, IMToken, Enjin wallet,
 
 ## Testing
 
-For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get intouch with them via this repo or on the Telegram group on our website. Reward: 4 xDai.
+For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get intouch with them via this repo or on the Telegram group on our website. Reward: 4 ADA.
 
 ## Resources
 
